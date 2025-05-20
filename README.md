@@ -144,8 +144,7 @@ python evaluate_attention.py
   * 3×3 grid (`heatmaps/attention_grid_3x3.png`)
   * Position-indexed heatmaps
 
-## links for 
-best_model_*.pt           # Saved vanilla model weights 
-best_attention_model_*.pt # Saved attention model weights
-link1
-link2
+## links for best_model_*.pt best_attention_model_*.pt
+https://drive.google.com/drive/folders/1DutVcUgg9ro_FMJkHUpEUe8utU9WRndj?usp=sharing
+download them from here and place them in the root directory 
+they were too big to upload 
